@@ -1,0 +1,9 @@
+__SECTION__ Section avec un tableau
+| V_n | I_n | R_n   |
+|     |     | V_n/I_n |*3
+|     |     | =\frac{V_n}{I_n} |
+
+__SECTION__ B
+test
+
+
